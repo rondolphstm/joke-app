@@ -5,4 +5,4 @@ export default function Joke({joke}){
     return(
         <Text style={styles.jokeText}>{joke}</Text>
     )
-}
+    }
